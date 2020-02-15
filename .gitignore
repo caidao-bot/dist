@@ -1,0 +1,4 @@
+.git-credentials
+.idea/*
+script/*
+.DS_Store
